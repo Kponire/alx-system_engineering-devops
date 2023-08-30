@@ -10,3 +10,5 @@
 
 3) [The long format](3-listfiles) Display current directory contents in a long format
 
+4) [Hidden files](4-listmorefiles) Display current directory contents, including hidden files
+
